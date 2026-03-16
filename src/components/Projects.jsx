@@ -36,7 +36,7 @@ const Projects = () => {
       desc: "JLPT စာမေးပွဲအတွက် အကောင်းဆုံး လေ့ကျင့်နိုင်မည့်နေရာ",
       tag: ["TypeScript", "React", "Tailwind", "Node", "Express"],
       repo: "thorshan/jlpt-test-client",
-      url: "https://github.com/thorshan/jlpt-mock",
+      url: "https://jlptx.vercel.app",
     },
     {
       id: 2,
@@ -44,7 +44,7 @@ const Projects = () => {
       desc: "မြန်ဆန်တဲ့ မှတ််စုလုပ်ဖို့ အတွက်နေရာကောင်းတစ်ခု",
       tag: ["JavaScript", "React", "Tailwind", "Node", "Express"],
       repo: "thorshan/jlpt-test-client",
-      url: "https://github.com/thorshan/jlpt-mock",
+      url: "https://github.com/thorshan/jlpt-test-client",
     },
     {
       id: 3,
@@ -52,7 +52,7 @@ const Projects = () => {
       desc: "Real-time weather data visualization.",
       tag: ["React", "Tailwind", "Node", "Express"],
       repo: "thorshan/jlpt-test-client",
-      url: "https://github.com/thorshan/jlpt-mock",
+      url: "https://github.com/thorshan/jlpt-test-client",
     },
   ];
 
