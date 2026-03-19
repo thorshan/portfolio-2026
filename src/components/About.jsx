@@ -1,7 +1,12 @@
+import { AiOutlineJava } from "react-icons/ai";
 import { 
   SiReact, SiJavascript, SiTypescript, SiTailwindcss, 
   SiHtml5, SiCss, SiNodedotjs, SiExpress, 
-  SiGit, SiPostgresql, SiMongodb 
+  SiGit, SiMongodb, 
+  SiMysql,
+  SiPhp,
+  SiSpringboot,
+  SiLaravel
 } from "react-icons/si";
 
 const About = () => {
@@ -14,8 +19,12 @@ const About = () => {
     { name: "CSS3", icon: <SiCss className="text-[#1572B6]" /> },
     { name: "Node.js", icon: <SiNodedotjs className="text-[#339933]" /> },
     { name: "Express.js", icon: <SiExpress className="dark:text-white text-black" /> },
+    { name: "Java", icon: <AiOutlineJava className="text-[#FF5832]" /> },
+    { name: "PHP", icon: <SiPhp className="text-[#777BB3]" /> },
+    { name: "Spring Boot", icon: <SiSpringboot className="text-[#339933]" /> },
+    { name: "Laravel", icon: <SiLaravel className="text-[#FF2D20]" /> },
     { name: "Git System", icon: <SiGit className="text-[#F05032]" /> },
-    { name: "SQL", icon: <SiPostgresql className="text-[#4169E1]" /> },
+    { name: "SQL", icon: <SiMysql className="text-[#4169E1]" /> },
     { name: "NoSQL", icon: <SiMongodb className="text-[#47A248]" /> },
   ];
 

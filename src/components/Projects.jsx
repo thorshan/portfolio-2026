@@ -43,16 +43,16 @@ const Projects = () => {
       title: "Note App",
       desc: "မြန်ဆန်တဲ့ မှတ််စုလုပ်ဖို့ အတွက်နေရာကောင်းတစ်ခု",
       tag: ["JavaScript", "React", "Tailwind", "Node", "Express"],
-      repo: "thorshan/jlpt-test-client",
-      url: "https://github.com/thorshan/jlpt-test-client",
+      repo: "thorshan/quick-note-server",
+      url: "https://github.com/thorshan/quick-note-server",
     },
     {
       id: 3,
       title: "Weather Dashboard",
-      desc: "Real-time weather data visualization.",
-      tag: ["React", "Tailwind", "Node", "Express"],
-      repo: "thorshan/jlpt-test-client",
-      url: "https://github.com/thorshan/jlpt-test-client",
+      desc: "အလွယ်တကူကြည့်နိုင်တဲ့ မိုးလေဝသ ဝက်ဆိုဒ်",
+      tag: ["TypeScript","React", "Tailwind", "Node", "Express"],
+      repo: "thorshan/weather-app",
+      url: "https://github.com/thorshan/weather-app",
     },
   ];
 
